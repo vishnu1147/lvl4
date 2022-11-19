@@ -1,5 +1,5 @@
 {
-  "name": "shravya",
+  "name": "vishnu",
   "version": "1.0.0",
   "description": "\\",
   "main": "index.js",
@@ -13,7 +13,7 @@
       "prettier --write ."
     ]
   },
-  "author": "shravya",
+  "author": "vishnu",
   "license": "ISC",
   "dependencies": {
     "jest": "^29.2.2"
